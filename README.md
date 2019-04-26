@@ -56,6 +56,4 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 [ToOfan](https://github.com/To0fan) ([Telegram](https://t.me/ToOfan))
 
-### Our Telegram channel:
-
-[@BeyondTeam](https://t.me/BeyondTeam)
+### Our Telegram channe
