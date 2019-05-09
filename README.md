@@ -1,9 +1,3 @@
-https://t.me/CodeXKin66
-
-
-[ ! [APIربات] (http://img.shields.io/badge/Bot٪20API-v3.0.0-00aced.svg)
-(https://core.telegram.org/bots/api)
-
 
 ## Beyond Helper V1.5
 An Helper Bot For BDReborn Based On BDMessenger
