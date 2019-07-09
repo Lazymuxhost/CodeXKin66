@@ -1,8 +1,7 @@
 
-## t.me/TELEBOOMBANG_TG_BOT V1.5
+## TELEBOOMBANG_TG_BOT 
 
 * * *
-
 ## Configure
 
 * Put Your Bot `TOKEN` At Line `3`
