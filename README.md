@@ -1,6 +1,5 @@
 
-## Beyond Helper V1.5
-An Helper Bot For BDReborn Based On BDMessenger
+## t.me/TELEBOOMBANG_TG_BOT V1.5
 
 * * *
 
